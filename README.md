@@ -33,24 +33,39 @@ Write your feedback about the event. You can include:
 - Suggestions for improvement.
 - What you'd like to learn in future workshops.
 
-### 4. Commit and Push Your Changes
+### 4. Create a New Branch
+
+Do not push your changes directly to the `main` branch. Create a new branch using your name:
+
+```bash
+git checkout -b your-name
+```
+
+Replace `your-name` with your own name.
+
+### 5. Commit and Push Your Changes
 
 ```bash
 git add .
 git commit -m "Add event feedback"
-git push -u origin main
+git push -u origin your-name
 ```
 
-### 5. Open a Pull Request
+**Important:** Replace `your-name` in the push command with the branch name you created in Step 4.
+
+### 6. Open a Pull Request
 
 1. Open your fork on GitHub.
-2. Click **Compare & pull request** (or go to the **Pull requests** tab and click **New pull request**).
-3. Ensure the **base repository** is the original GitQuest feedback repository and the **head repository** is your fork.
-4. Add a title and a short description.
-5. Click **Create pull request**.
+2. Click **Compare & pull request** (or go to **Pull requests → New pull request**).
+3. Set the **base repository** to the original GitQuest feedback repository and the **base branch** to `main`.
+4. Set the **compare branch** to your newly created branch.
+5. Add a title and a short description.
+6. Click **Create pull request**.
 
 ## 🎯 That's It!
 
 Your contribution will be reviewed by the organizers. Make sure your feedback is meaningful and your file is named correctly.
+
+**Remember:** Always create a new branch and open a Pull Request. Never push your changes directly to `main`.
 
 **Happy Contributing! 💻**
