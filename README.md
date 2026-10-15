@@ -15,8 +15,6 @@ Share your experience of the GitQuest workshop by adding a text file with your n
 Copy the URL of your fork from GitHub, then open your terminal and run:
 
 ```bash
-mkdir GitQuest-Feedback
-cd GitQuest-Feedback
 git init
 git remote add origin <your-fork-repository-url>
 git branch -M main
