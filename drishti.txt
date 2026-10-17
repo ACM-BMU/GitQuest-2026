@@ -1,0 +1,18 @@
+What I learnt:-
+     As a beginner, the session was very productive. I got introduced to GitHub commands, branches and working with GitHub,
+     like forking a repository. I also got to know how to connect a local computer file to GitHub
+     using simple commands. 
+
+     Favourite part:- One of my favourite part of the event was the hands-on practice of the whole process, starting from forking
+                      repositories to pushing a code in GitHub.
+    
+Feedback:-
+    The overall session was very interesting and as I have already mentioned, very productive. The only suggestion I wanted to give
+    is that towards the end of the session, not everyone was on the same page, either someone was creating branches or pushing the code. 
+    I think that before moving on to the next step, kindly ensure that almost everyone is on the same step.
+
+What I want to learn in future:-
+    I actually wanted to learn to control and work with backend stuff while developing a website or an app as  it would really help 
+    in multiple hackathons. That's it from my side.
+
+Thank you :) 
