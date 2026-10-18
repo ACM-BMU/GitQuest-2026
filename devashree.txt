@@ -1,0 +1,21 @@
+What I learnt : The session was quite beginner friendly. As a beginner myself I 
+                found the session easy to follow and learnt new things
+                that will help in my career in the future. I learnt to 
+                fork repository, connecting git hub and vs code, learnt
+                github commands etc. 
+Favourite part about the event :
+                My favourite part about the session was getting to learn github
+                with my friends and helping each other during the session.
+Suggestions :   I felt that the speaker was rushing a bit and not everyone was 
+                on the same page. It would be better if the speaker waited for 
+                everyone to complete the steps and be on the same page.
+Future suggestions:
+                I would like to learn more about hackathons , tips for hackathons,
+                working together as a team since we are all quite new to this and
+                would like to learn different parts of a website/app
+                such as frontend, backend, ai etc.
+                
+                Thankyou.
+
+                                 
+                
